@@ -1,0 +1,3 @@
+- Use uv as the package manager.
+- Create tests using pytest.
+- All output files must be created in the /data directory.
